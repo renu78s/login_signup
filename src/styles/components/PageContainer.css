@@ -1,0 +1,25 @@
+.container{
+    height: 812px;
+    width: 375px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    background: #F7F8F9 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border: 1px solid #d9d9da;
+    padding-bottom: 41px;
+}
+.fade{
+    animation: fadeIn 0.3s;
+    -webkit-animation: fadeIn 0.3s;
+}
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+@media (max-width:900px){
+    .container{
+      width: 100%;
+    }
+  }

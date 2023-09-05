@@ -1,0 +1,20 @@
+.home{
+    justify-content: flex-end; 
+    padding-inline: 20px;
+    height: 100vh !important;
+}
+.home_btn_create{
+    color: #FFFFFF !important;
+    background: #6C25FF 0% 0% no-repeat padding-box !important;
+}
+.home_btn_create:hover{
+    background: rgba(108, 37, 255,0.8) 0% 0% no-repeat padding-box !important;
+}
+.home_btn_login{
+    background: #6C25FF4B 0% 0% no-repeat padding-box !important;
+    color: #1D2226 !important;
+}
+.home_btn_login:hover{
+    background: rgba(108, 37, 255, 0.1) 0% 0% no-repeat padding-box !important;
+
+}

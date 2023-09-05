@@ -1,0 +1,36 @@
+.field{
+    border: 1px solid #CBCBCB;
+    border-radius: 6px;
+    opacity: 1;
+    padding-inline: 10px;
+}
+.field_text{
+    text-align: left;
+    font: normal normal normal 13px/17px Rubik;
+    letter-spacing: 0px;
+    color: #6C25FF;
+    opacity: 1;
+    padding-inline: 5px; 
+    text-transform: capitalize;
+}
+.input_text{
+    height: 35px;
+    width: 100%;
+    border: 1px solid #CBCBCB;
+    border-radius: 6px;
+    opacity: 1;
+    text-align: left;
+    font: normal normal normal 14px/17px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 1;
+    border: transparent;
+    outline: transparent;
+    background-color: transparent;
+    padding-inline: 5px;
+}
+.star{
+    color: #DD4A3D;
+    width: 6px;
+    height: 15px;
+}
